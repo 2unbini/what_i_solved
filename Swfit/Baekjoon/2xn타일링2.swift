@@ -1,5 +1,5 @@
 // DP loop
-// overflow while loop if u skip divide 10007
+// overflow while loop if u skip division
 
 func solution() {
     let n = Int(readLine()!)!
